@@ -15,3 +15,4 @@ id created_at updated_at
 save to_dict all new save reload
 
 ## PUBLIC CLASS ATTRIBUTES
+# AirBnB_clone2
